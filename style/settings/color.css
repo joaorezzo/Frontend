@@ -1,0 +1,11 @@
+:root {
+  /* Primaria*/
+  --ld-color-primary: #0041be;
+  /* Danger*/
+  --ld-color-danger: #ff2222;
+  /* Cinza*/
+  --ld-color-gray-lighter: #f9f8fd;
+  --ld-color-gray-light: #b8b7b7;
+  --ld-color-gray: #767684;
+  --ld-color-gray-dark: #09090a;
+}
